@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+<quiz>
+  <question type="description">
+    <name>
+      <text/>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text># Explication Portfolio
+
+Déroulement :
+
+Une question, vous répondez tous, on réagit aux réponses sur le tableau
+
+PUIS 
+
+Une réponse de la part de vos mentors avec des exemples</text>
+    </questiontext>
+  </question>
+  <question type="essay">
+    <name>
+      <text>Qu'est-ce qu'un portfolio ?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Qu'est-ce qu'un portfolio ?</text>
+    </questiontext>
+  </question>
+  <question type="description">
+    <name>
+      <text/>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text># Qu'est-ce qu'un Portfolio ?
+
+C'est un dossier physique ou un espace numérique (site web, blog, média, etc.) contenant des exemples de vos réalisations.</text>
+    </questiontext>
+  </question>
+  <question type="essay">
+    <name>
+      <text>Que contient un portfolio ?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Que contient un portfolio ?</text>
+    </questiontext>
+  </question>
+  <question type="description">
+    <name>
+      <text/>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text># Que contient un portfolio ?
+  - Informations sur soi
+   - une identité graphique qui nous représente
+   - Spécialité (développeur back-end, fullstack, frontend, administrateur réseaux, etc...) et que ce soit bien visible
+   - compétences
+   - expériences / projets (liens vers site/projet, et/ou vers github)
+   - des visuels / mockup / etc...
+   - Possibilité d'avoir un lien vers le cv (pour le télécharger)
+   - page contact
+   - mettre en avant 3 à 5 projets (les plus gros)
+   - témoignages/avis des clients etc...</text>
+    </questiontext>
+  </question>
+  <question type="essay">
+    <name>
+      <text>Quelles sont les différentes cibles à qui on peut s'adresser pour un portfolio en informatique ?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Quelles sont les différentes cibles à qui on peut s'adresser pour un portfolio en informatique ?</text>
+    </questiontext>
+  </question>
+  <question type="description">
+    <name>
+      <text/>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text># Quelles sont les différentes cibles à qui on peut s'adresser pour un portfolio en informatique ?
+
+- Startup
+- Entreprise
+- Client</text>
+    </questiontext>
+  </question>
+  <question type="essay">
+    <name>
+      <text>Quels sont les différents formats en fonction de ton profil ?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Quels sont les différents formats en fonction de ton profil ?</text>
+    </questiontext>
+  </question>
+  <question type="description">
+    <name>
+      <text/>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text># Quels sont les différents formats en fonction de ton profil ?
+
+- Pour un développeur web/logiciel/gameprog :
+
+     *-* Site web
+
+     *-* Github
+
+     *-* Démo technique
+
+- Pour un spécialiste en IOT :
+
+     *-* Démo technique
+
+- Pour un expert en cybersécurité / infra :
+
+     *-* CV</text>
+    </questiontext>
+  </question>
+  <question type="essay">
+    <name>
+      <text>Quel message doit-on faire passer dans un portfolio ?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Quel message doit-on faire passer dans un portfolio ?</text>
+    </questiontext>
+  </question>
+  <question type="description">
+    <name>
+      <text/>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text># Quel message doit-on faire passer dans un portfolio ?
+
+Le message à véhiculer sera votre domaine d'expertise.
+Voici quelques exemples :
+- Développeur Web
+- Développeur Logiciel
+- Game programmer
+- Expert en cybersécurité
+- Expert en IOT
+- ...</text>
+    </questiontext>
+  </question>
+  <question type="essay">
+    <name>
+      <text>Quelle est l'importance d'avoir un github (pour un développeur) et que faut-il dedans ?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Quelle est l'importance d'avoir un github (pour un développeur) et que faut-il dedans ?</text>
+    </questiontext>
+  </question>
+  <question type="description">
+    <name>
+      <text/>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text># Quelle est l'importance d'avoir un github (pour un développeur) et que faut-il dedans ?
+
+- Notre profil :
+
+     *-* Quelques informations sur nous
+
+     *-* Compétences
+
+     *-* Projets mis en avant (épinglé)
+   
+     *-* Activité
+- Un readme dans chaque projet :
+
+     *-* Une entête basique qui décrit le projet
+
+     *-* Peut comporter des images
+
+     *-* Usage (prérequis / installation / déploiement)
+
+     *-* Contribution
+
+     *-* Licences 
+
+     *-* Badges (authenticité)
+- Un github est un type de format de portfolio pour un développeur et peut suffir à un site web</text>
+    </questiontext>
+  </question>
+  <question type="essay">
+    <name>
+      <text>Quelles technos peuvent être utiles pour un portfolio version site web selon vous ?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Quelles technos peuvent être utiles pour un portfolio version site web selon vous ?</text>
+    </questiontext>
+  </question>
+  <question type="description">
+    <name>
+      <text/>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text># Des exemples de technos pour un portfolio version site web...
+
+- Vue.js
+- React
+- Three.js (animation 3d en js)
+- HTML/CSS
+- Golang 🙃
+- PHP et tous ses framework
+- Spring
+- TailwindCSS
+- ...</text>
+    </questiontext>
+  </question>
+</quiz>
